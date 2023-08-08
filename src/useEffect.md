@@ -1,0 +1,1 @@
+The use of useEffect is allowing the user to perform side effects in the components. 
